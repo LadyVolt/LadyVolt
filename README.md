@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LadyVolt
 - 👀 I’m interested in ... Crypto , AI, Machine Learning
 - 🌱 I’m currently learning ... Python, BlockChain Developement
-- 💞️ I’m looking to collaborate on ...  Haven't decided!  I am lookinkk to connect with experienced users and learn together!
+- 💞️ I’m looking to collaborate on ...  Haven't decided!  I am looking to connect with experienced users and learn together!
 - 📫 How to reach me ...  Discord @ LadyVolt#8502
 
 <!---
